@@ -4,6 +4,8 @@ include::_attributes.adoc[]
 [#prerequisite]
 == Prerequisite CLI tools
 
+A big new prerequisite.
+
 You will need in this tutorial:
 
 * openshift
