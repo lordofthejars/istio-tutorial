@@ -27,6 +27,8 @@ before_install:
       ./generate_docs.sh;
     fi'
 
+script: echo "Generating Docs"
+
 after_success:
   - 'if [ 0 == 0 ] || [ $GENERATE_DOC == 0 ]; then
       git add .;
