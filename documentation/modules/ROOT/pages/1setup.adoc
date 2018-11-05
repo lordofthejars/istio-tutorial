@@ -33,6 +33,8 @@ You will need in this tutorial:
 [#minishift]
 == Setup minishift
 
+THIS IS
+
 Assumes `minishift`, tested with minishift v1.22.0+7163416
 
 [source,bash]
